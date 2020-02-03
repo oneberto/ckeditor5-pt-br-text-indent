@@ -29,7 +29,7 @@ export class IndentTextEditing extends Plugin {
       view: modelAttributeValue => ({
         key: "style",
         value: {
-          "padding-left": "200px"
+          "text-indent": "2rem"
           // `${modelAttributeValue}${indentMeasure}`,
         }
       })
