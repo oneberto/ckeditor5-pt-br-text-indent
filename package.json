@@ -1,6 +1,6 @@
 {
     "name": "ckeditor5-indent-text",
-    "version": "0.1",
+    "version": "1.0.11",
     "description": "Text indentin pt-br CKEditor 5.",
     "keywords": [
         "ckeditor",
@@ -19,7 +19,7 @@
         "node": ">=6.9.0",
         "npm": ">=3.0.0"
     },
-    "author": "Maksim Virchenko",
+    "author": "Umberto Pontes / Maksim Virchenko",
     "license": "MIT",
     "homepage": "https://github.com/oneberto/ckeditor5-pt-br-text-indent",
     "repository": {
