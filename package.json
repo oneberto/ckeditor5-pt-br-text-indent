@@ -1,7 +1,7 @@
 {
     "name": "ckeditor5-indent-text",
-    "version": "1.0.11",
-    "description": "Text indenting feature for CKEditor 5.",
+    "version": "0.1",
+    "description": "Text indentin pt-br CKEditor 5.",
     "keywords": [
         "ckeditor",
         "ckeditor5",
@@ -21,11 +21,10 @@
     },
     "author": "Maksim Virchenko",
     "license": "MIT",
-    "homepage": "https://github.com/Mark1Z/ckeditor5-indent-text",
-    "bugs": "https://github.com/Mark1Z/ckeditor5-indent-text/issues",
+    "homepage": "https://github.com/oneberto/ckeditor5-pt-br-text-indent",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Mark1Z/ckeditor5-indent-text.git"
+        "url": "https://github.com/oneberto/ckeditor5-pt-br-text-indent"
     },
     "files": [
         "src",
